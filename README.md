@@ -10,3 +10,4 @@ Creating this project will give you the hands-on experience you need to confiden
 6. myserver-parameters.json: Parameters file for servers cloud formation stack.
 7. myserver.yml: CloudFormation template for creating servers for this project.
 8. /Screenshots : has all screen shots of Application.
+9. App-URL.txt : has App url http://proje-webap-134vqjocl3b8g-1204862915.us-east-1.elb.amazonaws.com/
